@@ -1,5 +1,5 @@
 
-# TensorFlow Developer Specialization (DeepLearning.AI)
+# TensorFlow Developer Professional Certificate (DeepLearning.AI)
 
 Instructor: [Laurence Moroney)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 

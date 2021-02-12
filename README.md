@@ -25,5 +25,5 @@ Instructor: [Laurence Moroney)](https://www.coursera.org/professional-certificat
 
 **Useful links**
 
-- You can see more about the different APIs at the Keras site here: https://keras.io/preprocessing/image/
+- [Image Data Preprocessing](https://keras.io/preprocessing/image)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/validation/check-your-intuition)

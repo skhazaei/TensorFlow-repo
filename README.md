@@ -13,10 +13,10 @@ Instructor: [Laurence Moroney)](https://www.coursera.org/professional-certificat
   - [Week 4 - Using Real-world Images](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/01.%20Introduction%20To%20TensorFlow%20Coursera/Week4%20-%20Using%20Real-world%20Images)
 
 - Course 2: Convolutional Neural Networks in TensorFlow
-  - [Week 1 - Exploring a Larger Dataset]()
+  - [Week 1 - Exploring a Larger Dataset](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/02.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week1%20-%20Exploring%20a%20Larger%20Dataset)
  
-  - [Week 2 - Augmentation: A technique to avoid overfitting]()
+  - [Week 2 - Augmentation: A technique to avoid overfitting](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/02.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week2%20-%20Augmentation:%20A%20technique%20to%20avoid%20overfitting)
  
-  - [Week 3 - Transfer Learning]()
+  - [Week 3 - Transfer Learning](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/02.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week3%20-%20Transfer%20Learning)
  
-  - [Week 4 - Multiclass Classifications]()
+  - [Week 4 - Multiclass Classifications](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/02.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week4%20-%20Multiclass%20Classifications)

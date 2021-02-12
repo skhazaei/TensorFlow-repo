@@ -20,3 +20,8 @@ Instructor: [Laurence Moroney)](https://www.coursera.org/professional-certificat
   - [Week 3 - Transfer Learning](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/02.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week3%20-%20Transfer%20Learning)
  
   - [Week 4 - Multiclass Classifications](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/02.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week4%20-%20Multiclass%20Classifications)
+
+
+
+Useful links:
+You can see more about the different APIs at the Keras site here: https://keras.io/preprocessing/image/

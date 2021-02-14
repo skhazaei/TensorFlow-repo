@@ -27,5 +27,5 @@ Instructor: [Laurence Moroney)](https://www.coursera.org/professional-certificat
 
 - [Image Data Preprocessing](https://keras.io/preprocessing/image)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/validation/check-your-intuition)
-- [How to freeze/lock layers, explore the documentation, which includes an example using MobileNet architecture](https://www.tensorflow.org/tutorials/images/transfer_learning)
+- [Transfer Learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 - [ML blog of Laurence Moroney](http://www.laurencemoroney.com/colabs-for-ml-learning/)

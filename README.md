@@ -21,6 +21,15 @@ Instructor: [Laurence Moroney)](https://www.coursera.org/professional-certificat
  
   - [Week 4 - Multiclass Classifications](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/02.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week4%20-%20Multiclass%20Classifications)
 
+- Course 3: Natural Language Processing in TensorFlow
+ - [Week 1 - Sentiment in text]()
+ 
+ - [Week 2 - Word Embeddings]()
+
+ - [Week 3 - Sequence models]()
+ 
+ - [Week 4 - Sequence models and literature]()
+
 
 
 **Useful links**

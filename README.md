@@ -22,13 +22,13 @@ Instructor: [Laurence Moroney)](https://www.coursera.org/professional-certificat
   - [Week 4 - Multiclass Classifications](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/02.%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week4%20-%20Multiclass%20Classifications)
 
 - Course 3: Natural Language Processing in TensorFlow
-  - [Week 1 - Sentiment in text]()
+  - [Week 1 - Sentiment in text](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/03:%20Natural%20Language%20Processing%20in%20TensorFlow/Week1%20-%20Sentiment%20in%20text)
  
-  - [Week 2 - Word Embeddings]()
+  - [Week 2 - Word Embeddings](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/03:%20Natural%20Language%20Processing%20in%20TensorFlow/Week2%20-%20Word%20Embeddings)
 
-  - [Week 3 - Sequence models]()
+  - [Week 3 - Sequence models](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/03:%20Natural%20Language%20Processing%20in%20TensorFlow/Week3%20-%20Sequence%20models)
  
-  - [Week 4 - Sequence models and literature]()
+  - [Week 4 - Sequence models and literature](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/03:%20Natural%20Language%20Processing%20in%20TensorFlow/Week4%20-%20Sequence%20models%20and%20literature)
 
 
 

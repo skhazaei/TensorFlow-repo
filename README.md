@@ -31,13 +31,13 @@ Instructor: [Laurence Moroney)](https://www.coursera.org/professional-certificat
   - [Week 4 - Sequence models and literature](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/03:%20Natural%20Language%20Processing%20in%20TensorFlow/Week4%20-%20Sequence%20models%20and%20literature)
 
 - Course 4: Sequences, Time Series and Prediction
-  -[Week 1 - Sequences and Prediction]()
+  - [Week 1 - Sequences and Prediction]()
   
-  -[Week 2 - Deep Neural Networks for Time Series]()
+  - [Week 2 - Deep Neural Networks for Time Series]()
   
-  -[Week 3 - Recurrent Neural Networks for time series]()
+  - [Week 3 - Recurrent Neural Networks for time series]()
   
-  -[Week 4 - Real-world time series data]()
+  - [Week 4 - Real-world time series data]()
   
   
 

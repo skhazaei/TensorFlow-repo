@@ -55,5 +55,12 @@ Instructor: [Laurence Moroney](https://www.coursera.org/professional-certificate
 Instructor: [Dr Kevin Webster](https://www.coursera.org/specializations/tensorflow2-deeplearning#instructors)
 
 - Course 1: Getting started with TensorFlow 2
+  - [Week 1 - Introduction to TensorFlow]()
+  - [Week 2 - The Sequential model API]()
+  - [Week 3 - Validation, regularisation and callbacks]()
+  - [Week 4 - Saving and loading models]()
+  - [Week 5 - Capstone Project]()
+
 - Course 2: Customising your models with TensorFlow 2
+  
 - Course 3: Probabilistic Deep Learning with TensorFlow 2

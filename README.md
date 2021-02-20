@@ -40,7 +40,6 @@ Instructor: [Laurence Moroney](https://www.coursera.org/professional-certificate
   - [Week 4 - Real-world time series data](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/04.%20Sequences%2C%20Time%20Series%20and%20Prediction/Week4%20-%20Real-world%20time%20series%20data)
   
   
-
 **Useful links**
 
 - [Image Data Preprocessing](https://keras.io/preprocessing/image)
@@ -51,10 +50,7 @@ Instructor: [Laurence Moroney](https://www.coursera.org/professional-certificate
 
 
 
-
-
-
-# TensorFlow 2 for Deep Learning Specialization
+# TensorFlow 2 for Deep Learning Specialization (Imperial College London)
 
 Instructor: [Dr Kevin Webster](https://www.coursera.org/specializations/tensorflow2-deeplearning#instructors)
 

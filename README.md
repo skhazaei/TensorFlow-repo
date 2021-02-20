@@ -55,11 +55,11 @@ Instructor: [Laurence Moroney](https://www.coursera.org/professional-certificate
 Instructor: [Dr Kevin Webster](https://www.coursera.org/specializations/tensorflow2-deeplearning#instructors)
 
 - Course 1: [Getting started with TensorFlow 2](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%202%20for%20Deep%20Learning%20Specialization/01.%20Getting%20started%20with%20TensorFlow%202)
-  - Week 1 - [Introduction to TensorFlow]()
-  - Week 2 - [The Sequential model API]()
-  - Week 3 - [Validation, regularisation and callbacks]()
-  - Week 4 - [Saving and loading models]()
-  - Week 5 - [Capstone Project - Image classifier for the SVHN dataset]()
+  - Week 1 - [Introduction to TensorFlow](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%202%20for%20Deep%20Learning%20Specialization/01.%20Getting%20started%20with%20TensorFlow%202/Week1%20-%20Introduction%20to%20TensorFlow)
+  - Week 2 - [The Sequential model API](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%202%20for%20Deep%20Learning%20Specialization/01.%20Getting%20started%20with%20TensorFlow%202/Week2%20-%20The%20Sequential%20model%20API)
+  - Week 3 - [Validation, regularisation and callbacks](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%202%20for%20Deep%20Learning%20Specialization/01.%20Getting%20started%20with%20TensorFlow%202/Week3%20-%20Validation%2C%20regularisation%20and%20callbacks)
+  - Week 4 - [Saving and loading models](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%202%20for%20Deep%20Learning%20Specialization/01.%20Getting%20started%20with%20TensorFlow%202/Week4%20-%20Saving%20and%20loading%20models)
+  - Week 5 - [Capstone Project - Image classifier for the SVHN dataset](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%202%20for%20Deep%20Learning%20Specialization/01.%20Getting%20started%20with%20TensorFlow%202/Week5%20-%20Capstone%20Project%20-%20Image%20classifier%20for%20the%20SVHN%20dataset)
 
 - Course 2: [Customising your models with TensorFlow 2](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%202%20for%20Deep%20Learning%20Specialization/02.%20Customising%20your%20models%20with%20TensorFlow%202)
   - Week 1 - [The Keras functional API]()

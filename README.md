@@ -1,7 +1,7 @@
 
 # TensorFlow Developer Professional Certificate (DeepLearning.AI)
 
-Instructor: [Laurence Moroney)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+Instructor: [Laurence Moroney](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
 - Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
   - [Week 1 - A New Programming Paradigm](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%20Developer%20Professional%20Certificate/01.%20Introduction%20To%20TensorFlow%20Coursera/Week1%20-%20A%20New%20Programming%20Paradigm)
@@ -47,3 +47,17 @@ Instructor: [Laurence Moroney)](https://www.coursera.org/professional-certificat
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/validation/check-your-intuition)
 - [Transfer Learning](https://www.tensorflow.org/tutorials/images/transfer_learning)
 - [ML blog of Laurence Moroney](http://www.laurencemoroney.com/colabs-for-ml-learning/)
+
+
+
+
+
+
+
+# TensorFlow 2 for Deep Learning Specialization
+
+Instructor: [Dr Kevin Webster](https://www.coursera.org/specializations/tensorflow2-deeplearning#instructors)
+
+- Course 1: Getting started with TensorFlow 2
+- Course 2: Customising your models with TensorFlow 2
+- Course 3: Probabilistic Deep Learning with TensorFlow 2

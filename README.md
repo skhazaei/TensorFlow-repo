@@ -59,8 +59,19 @@ Instructor: [Dr Kevin Webster](https://www.coursera.org/specializations/tensorfl
   - Week 2 - [The Sequential model API]()
   - Week 3 - [Validation, regularisation and callbacks]()
   - Week 4 - [Saving and loading models]()
-  - Week 5 - [Capstone Project]()
+  - Week 5 - [Capstone Project - Image classifier for the SVHN dataset]()
 
 - Course 2: [Customising your models with TensorFlow 2](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%202%20for%20Deep%20Learning%20Specialization/02.%20Customising%20your%20models%20with%20TensorFlow%202)
+  - Week 1 - [The Keras functional API]()
+  - Week 2 - [Data Pipeline]()
+  - Week 3 - [Sequence Modelling]()
+  - Week 4 - [Model subclassing and custom training loops]()
+  - Week 5 - [Capstone Project - Neural translation model]()
   
 - Course 3: [Probabilistic Deep Learning with TensorFlow 2](https://github.com/skhazaei/TensorFlow-repo/tree/master/TensorFlow%202%20for%20Deep%20Learning%20Specialization/03.%20Probabilistic%20Deep%20Learning%20with%20TensorFlow%202)
+  - Week 1 - [TensorFlow Distributions]()
+  - Week 2 - [Probabilistic layers and Bayesian neural networks]()
+  - Week 3 - [Bijectors and normalising flows]()
+  - Week 4 - [Variational autoencoders]()
+  - Week 5 - [Capstone Project - Probabilistic generative models]()
+

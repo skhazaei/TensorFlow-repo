@@ -1,5 +1,5 @@
 
-# [TensorFlow Developer Professional Certificate (DeepLearning.AI)](https://coursera.org/share/6d37d730bd0e1aad6eb03ef8777ca0f3)
+# [TensorFlow Developer Professional Certificate (DeepLearning.AI)](https://www.coursera.org/account/accomplishments/specialization/certificate/266QVX8DAXKU)
 
 Instructor: [Laurence Moroney](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
